@@ -1,0 +1,14 @@
+# C / C++ build files
+*.exe
+*.out
+a.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+dist/
+
+# VS Code / IDE
+.vscode/
