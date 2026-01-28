@@ -1,17 +1,17 @@
-# C / C++ build files
+# C / C++ compiled files
 *.exe
 *.out
 a.out
 *.o
 *.obj
 
-# Build folders
-build/
+# Executables without extension (Linux/macOS)
+Basics_of_C++_and_Control_structure/Question*
+
+# Build directories
 bin/
+build/
 dist/
 
-# VS Code / IDE
+# VS Code
 .vscode/
-
-# Ignore compiled binaries (no extension)
-Basics_of_C++_and_Control_structure/Question*
