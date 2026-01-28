@@ -12,3 +12,6 @@ dist/
 
 # VS Code / IDE
 .vscode/
+
+# Ignore compiled binaries (no extension)
+Basics_of_C++_and_Control_structure/Question*
