@@ -6,7 +6,7 @@ a.out
 *.obj
 
 # Executables without extension (Linux/macOS)
-Basics_of_C++_and_Control_structure/Question*
+
 
 # Build directories
 bin/
